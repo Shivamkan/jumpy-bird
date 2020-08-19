@@ -1,6 +1,6 @@
 # Jumpy Bird
 
-go throw the wall 
+go through the wall 
 
 
 
